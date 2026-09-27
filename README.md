@@ -72,6 +72,9 @@ Make sure `external_cmds.txt` is in the same directory as the executable. It is 
 | `print_process_name.c`    | Reads `/proc/<pid>/comm` to print a job's process name    |
 | `sll_funs.c`              | Implements the singly linked list used for job tracking   |
 
-```
+
+ ## 👨‍💻 Author
+
+**Manoj B**
 
 
